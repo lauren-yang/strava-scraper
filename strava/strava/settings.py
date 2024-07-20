@@ -29,7 +29,7 @@ COMMANDS_MODULE = 'strava.commands'
 
 # To quiet the logs
 # LOG_LEVEL = 'INFO'
-LOG_FILE = '/home/dnelson/scrapy-logs/output.log'
+LOG_FILE = '/Users/laurenyang/scrapy-logs/output.log'
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 CONCURRENT_REQUESTS = 16
